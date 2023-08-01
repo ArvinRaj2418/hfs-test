@@ -1,0 +1,219 @@
+@media only screen and (max-width: 1260px) and (min-width: 992px) {
+    .card3 {
+        min-height: 240px;
+    }
+
+    .card3 svg {
+        width: 80px !important;
+    }
+
+    .card3 h1 {
+        font-size: 16px;
+        margin-bottom: 6px !important;
+    }
+
+    .card3 button {
+        margin-top: 6px !important;
+    }
+}
+
+@media only screen and (max-width: 1550px) {
+    /*.candidates-table {*/
+    /*    overflow-x: scroll !important;*/
+    /*}*/
+
+    /*.candidates-table #dataTable {*/
+    /*    min-width: 1200px;*/
+
+    /*}*/
+}
+
+@media only screen and (max-width: 1270px) {
+    /*.customer-table {*/
+    /*    overflow-x: scroll !important;*/
+    /*}*/
+
+    /*.customer-table #dataTable {*/
+    /*    min-width: 1000px;*/
+
+    /*}*/
+}
+
+@media only screen and (max-width: 991px) {
+    .f-32 {
+        font-size: 25px !important;
+    }
+
+    .sign-form {
+        border: 1px solid #c5c5c5;
+        padding: 15px !important;
+        border-radius: 5px;
+    }
+
+    .btn-fill {
+        width: 100%;
+        margin: 0px 0px;
+    }
+
+    .family-chrift {
+        font-family: 'Poppins', sans-serif;
+    }
+
+}
+
+@media only screen and (max-width: 1080px) {
+    .data-table-div {
+        overflow-x: scroll;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+    .staff-table {
+        overflow-x: scroll !important;
+    }
+
+    .staff-table #dataTable {
+        min-width: 768px;
+    }
+
+    .ml {
+        margin-left: 0px;
+    }
+
+    #sidebar.active-small {
+        margin-left: -250px !important;
+    }
+
+    #sidebar.active {
+        margin-left: unset;
+    }
+
+    .w-600-l {
+        font-weight: 400 !important;
+    }
+
+    .f-40 {
+        font-size: 34px !important;
+    }
+
+    .side-list li i {
+        margin-right: 10px;
+        font-size: 16px;
+    }
+
+    .f-20 {
+        font-size: 18px;
+    }
+
+    .state__list--item {
+
+        margin: 10px 5px;
+        width: 100% !important;
+
+    }
+
+    .state__list {
+        flex-direction: column;
+    }
+
+    .navbar {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+
+    .navbar .container-fluid {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+
+    .buttons-row {
+        flex-direction: column !important;
+        margin-bottom: 20px !important;
+    }
+}
+
+@media only screen and (max-width: 630px) {
+    .module {
+        width: 50px;
+        height: 50px;
+        padding: 10px !important;
+    }
+
+    .module > img {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .history-cards {
+        flex-direction: column !important;
+        justify-content: start !important;
+        align-items: start !important;
+    }
+
+    .history-cards>p {
+        margin: 5px 0 !important;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .sign-form {
+        width: 300px;
+    }
+
+    .dataTables_filter label input {
+        width: 180px !important;
+        margin-left: 10px !important;
+    }
+
+    .history-cards {
+        flex-direction: column !important;
+        justify-content: start !important;
+        align-items: start !important;
+    }
+
+    .history-cards>p {
+        margin: 5px 0 !important;
+    }
+
+    .buttons {
+        flex-direction: column !important;
+    }
+
+    .buttons a {
+        width: 100% !important;
+        margin-bottom: 10px !important;
+    }
+
+    .buttons-row .buttons .dropdown button {
+        width: 100% !important;
+        margin-left: 5px;
+    }
+
+    .buttons-row .buttons .dropdown {
+        width: 100% !important;
+    }
+
+    button[name=order].btn-fill {
+        width: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .module {
+        width: 50px;
+        height: 50px;
+        padding: 10px !important;
+    }
+
+    .module:not(:last-child) {
+        margin-right: 15px !important;
+    }
+
+    .module > img {
+        width: 30px;
+        height: 30px;
+    }
+}
